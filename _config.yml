@@ -6,6 +6,7 @@ url:                 http://koni114.github.io
 logo:                'public/logo.png' 
 encoding:            utf-8
 baseurl:             ''
+remote_theme:        poole/lanyon
 
 # site config
 gems:
