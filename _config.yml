@@ -1,8 +1,8 @@
 # site info
 title:               재빅의 블로그
 tagline:             'for data science'
-description:        'Blog for my growths'
-url:                 "https://koni114.github.io"
+description:         'Blog for my growths'
+url:                 https://koni114.github.io
 logo:                'public/logo.png' 
 encoding:            utf-8
 baseurl:             ''
@@ -11,7 +11,7 @@ remote_theme:        poole/lanyon
 # site config
 gems:
   - jekyll-paginate
-paginate:            5
+paginate:            5      
 permalink:           pretty
 version:             1.1.0
 
@@ -20,12 +20,13 @@ author:
   name:              Jaebig
   email:             swallow9212@gmail.com
 
-# hero:
-#   image: https://github.com/koni114/koni114.github.io/blob/master/public/img/apple_and_orange.jpg
-#   caption: Paul Cesanne, Apples and Oranges
+hero:
+  image:   https://koni114.github.io/public/img/apple_and_orange.jpg
+  caption: Paul Cesanne, Apples and Oranges
 
 
-# Gems
+# plugin
+mathjax: true # whether support mathjax
 plugins:
   - jekyll-paginate
 google_analytics_id: #UA-XXXX-Y
