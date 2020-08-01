@@ -5,12 +5,6 @@ description:        'Blog for my growth'
 url:                 http://koni114.github.io
 logo:                'public/logo.png' 
 encoding:            utf-8
-=======
-# Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         ''
-url:                 https://koni114.github.io
 baseurl:             ''
 
 # site config
@@ -29,15 +23,6 @@ hero:
   image: https://koni114.github.io/public/img/apple_and_orange.JPG
   caption: Paul Cesanne, Apples and Oranges
 
-=======
-remote_theme:        poole/lanyon
-
-
-# About/contact
-author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             swallow9212@gmail.com
 
 # Gems
 plugins:
