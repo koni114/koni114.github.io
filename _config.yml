@@ -1,8 +1,8 @@
 # site info
 title:               재빅의 블로그
-tagline:             ''
-description:        'Blog for my growth'
-url:                 http://koni114.github.io
+tagline:             'for data science'
+description:        'Blog for my growths'
+url:                 "https://koni114.github.io"
 logo:                'public/logo.png' 
 encoding:            utf-8
 baseurl:             ''
@@ -20,9 +20,9 @@ author:
   name:              Jaebig
   email:             swallow9212@gmail.com
 
-hero:
-  image: https://github.com/koni114/koni114.github.io/blob/master/public/img/apple_and_orange.jpg
-  caption: Paul Cesanne, Apples and Oranges
+# hero:
+#   image: https://github.com/koni114/koni114.github.io/blob/master/public/img/apple_and_orange.jpg
+#   caption: Paul Cesanne, Apples and Oranges
 
 
 # Gems
