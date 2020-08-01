@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # site info
 title:               재빅의 블로그
 tagline:             ''
@@ -6,13 +5,6 @@ description:        'Blog for my growth'
 url:                 http://koni114.github.io
 logo:                'public/logo.png' 
 encoding:            utf-8
-=======
-# Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 https://koni114.github.io
->>>>>>> 0993948de8b6fa64627574b6c1519a2adc08fb43
 baseurl:             ''
 
 # site config
@@ -20,7 +12,6 @@ gems:
   - jekyll-paginate
 paginate:            5
 permalink:           pretty
-<<<<<<< HEAD
 version:             1.1.0
 
 # About/contact
@@ -33,16 +24,6 @@ hero:
   image: https://koni114.github.io/public/img/apple_and_orange.JPG
   caption: Paul Cesanne, Apples and Oranges
 
-=======
-remote_theme:        poole/lanyon
-
-
-# About/contact
-author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             swallow9212@gmail.com
->>>>>>> 0993948de8b6fa64627574b6c1519a2adc08fb43
 
 # Gems
 plugins:
