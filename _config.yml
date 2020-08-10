@@ -1,32 +1,62 @@
 # site info
 title:               재빅의 블로그
-tagline:             'for data science'
-description:         'Blog for my growths'
+tagline:             'for data science & data engineering'
+description:         '능력있는 데이터 사이언티스트가 되는 그 날까지'
 url:                 https://koni114.github.io
 logo:                'public/logo.png' 
 encoding:            utf-8
 baseurl:             ''
 remote_theme:        poole/lanyon
 
-# site config
-gems:
+# Site configurations
+plugins:
   - jekyll-paginate
-paginate:            5      
-permalink:           pretty
-version:             1.1.0
+  - jekyll-seo-tag
+markdown: kramdown
+kramdown:
+  input: GFM
+excerpt_separator: "<!-- more -->"
+sass:
+  style: compressed
+  sass_dir: _scss
+paginate: 5 
+paginate_path: '/blog/page:num'
+permalink: pretty
+
+# Custom vars
+version: 1.0.0
 
 # About/contact
 author:
-  name:              Jaebig
-  email:             swallow9212@gmail.com
+  name:              JaeHun Huh
+  description:       '능력있는 데이터 사이언티스트가 되는 그 날까지'
+  gravatar:          bcf284601785bd2fa85f7001f84a6b34 # md5 hash of your email address
+  contact: 
+    #linkedin:  <hide>
+    #github:         https://github.com/koni114
+    #facebook:  <hide>
+    #twitter:  <hide>
+    #weibo:    <hide>
+    email:          mailto:swallow9212@gmail.com
+
+# Navigation (2nd level links supported)
+nav:
+  Home:           
+    - '/'
+  Contents:           
+    - '/blog/'
+    - { Categories: '/blog/categories/' }
+    - { Tags: '/blog/tags/' }
+  About:          
+    - '/about/'
+
+tag_page: '/blog/tags/'
+category_page: '/blog/categories/'
 
 hero:
   image:   https://koni114.github.io/public/img/apple_and_orange.jpg
   caption: Paul Cesanne, Apples and Oranges
 
-
 # plugin
 mathjax: true # whether support mathjax
-plugins:
-  - jekyll-paginate
 google_analytics_id: #UA-XXXX-Y
