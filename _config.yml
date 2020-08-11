@@ -5,7 +5,6 @@ description:         '능력있는 데이터 사이언티스트가 되는 그 �
 url:                 https://koni114.github.io
 logo:                'public/logo.png' 
 encoding:            utf-8
-baseurl:             ''
 
 # Site configurations
 plugins:
