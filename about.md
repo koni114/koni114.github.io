@@ -3,27 +3,28 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<div style="font-size: 0.9rem; font-weight:300; line-height: 1.6rem;">
+안녕하세요! 허재훈이라고 합니다.  <br> 
+필요하신 사항이 있으시면 언제든지 컨텍 주시면 감사하겠습니다 :) <br>
+</div>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<div style="font-size: 0.9rem; font-weight:300; line-height: 1.6rem;">
+<br>
+<b>경력사항</b> <br>
+<div style="font-size: 0.8rem; font-weight:300; line-height: 1.6rem;">
+회사명 : POSCOICT<br>
+</div>
+<div style="font-size: 0.8rem; font-weight:300; line-height: 1.6rem;">
+&nbsp;&nbsp;기간 : 2017-12-18 ~ 현재<br>
+주요 직무<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- workbench Big Data/AI Analysis Tool 분석 모듈 개발<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Big Data Analysis & engineering (정형, 비정형)<br>
+주요 프로젝트 정리<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Workbench Big Data/AI 분석 Tool 기능 고도화 : '20.04 ~ 현재<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- POSCO mes3.0 품질불량 영향인자 자동원인분석 체계 구축 : '19.03 ~'20.03 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;- 연주공장 주편 품질예측을 통한 후판재 스카핑 부하 저감 프로젝트 진행 : '18.09 ~ '19.02 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;- 동화 Smart Factory 품질(물성)불량 원인 분석 Template 구축 : '18.01 ~ '18.08 <br>
 
-There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+</div>

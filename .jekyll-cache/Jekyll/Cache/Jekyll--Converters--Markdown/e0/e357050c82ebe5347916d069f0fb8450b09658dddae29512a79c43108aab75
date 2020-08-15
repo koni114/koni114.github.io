@@ -1,0 +1,146 @@
+I"�<h4 id="소개">소개</h4>
+<ul>
+  <li>Github : <a href="https://github.com/koni114">https://github.com/koni114</a></li>
+  <li>Mail : <a href="swallow9212@gmail.com">swallow9212@gmail.com</a></li>
+</ul>
+
+<h2 id="이력사항">이력사항</h2>
+<h3 id="경력사항">경력사항</h3>
+<ul>
+  <li>POSCOICT
+    <ul>
+      <li>입사일 : 2017-12-18 ~ 2020.06.16 (2년 6개월)</li>
+      <li>주요 직무
+        <ul>
+          <li>workbench Big Data/AI Analysis Tool 분석 모듈 개발</li>
+          <li>Big Data Analysis &amp; engineering (정형, 비정형)</li>
+        </ul>
+      </li>
+      <li>주요 프로젝트 정리
+        <ul>
+          <li>Workbench Big Data/AI 분석 Tool 기능 고도화 : ‘20.04 ~ 현재</li>
+          <li>POSCO mes3.0 품질불량 영향인자 자동원인분석 체계 구축 : ‘19.03 ~’20.03</li>
+          <li>연주공장 주편 품질예측을 통한 후판재 스카핑 부하 저감 프로젝트 진행 : ‘18.09 ~ ‘19.02</li>
+          <li>동화 Smart Factory 품질(물성)불량 원인 분석 Template 구축 : ‘18.01 ~ ‘18.08</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="핵심-기술-분야">핵심 기술 분야</h3>
+<ul>
+  <li>R 프로그래밍</li>
+  <li>통계 기반 분석</li>
+  <li>Machine Learning.</li>
+  <li>Data Visualization.</li>
+  <li>분석 컴포넌트 모듈 개발( R )</li>
+</ul>
+
+<h3 id="핵심기술-관련-프로젝트과제">핵심기술 관련 프로젝트/과제</h3>
+<h4 id="workbench-bigdataai-분석-tool-기능-고도화">Workbench BigData/AI 분석 Tool 기능 고도화</h4>
+<ul>
+  <li>기간 : 20.04 ~ 20.06</li>
+  <li>주요 역할 : 분석 컴포넌트 설계, 개발, 테스트</li>
+  <li>내용
+    <ul>
+      <li>GlmBoost, XGBoost 등 앙상블 기법(총 10종) 모델 성능 튜닝 지원을 위한 분석 모듈 제작을 통한 분석 기능 강화</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="posco-mes30-품질불량-영향인자-자동원인분석-체계-구축">POSCO mes3.0 품질불량 영향인자 자동원인분석 체계 구축</h4>
+<ul>
+  <li>기간 : 19.03 ~ 20.04</li>
+  <li>주요역할 :  자동원인분석(R programming) 설계, 개발, Big Data 모델링, 테스트 진행</li>
+  <li>내용
+    <ul>
+      <li>CTQ-Vital Few 자동원인분석 및 실시간 모니터링을 통한 결함유발 유력인자 신속 도출로 사전감지 및 품질사고 예방</li>
+      <li>로지스틱 회귀, Intel 지수(Feasibility Test), T-Test 등 영향인자 도출에 필요한 분석 모델링 및 지표값 제공</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="연주공장-주편-품질예측을-통한-후판재-스카핑-부하-저감">연주공장 주편 품질예측을 통한 후판재 스카핑 부하 저감</h4>
+<ul>
+  <li>기간 : 18.09 ~ 19.02</li>
+  <li>주요 역할 : 분석 프로세스 설계, Big Data 모델링, 테스트</li>
+  <li>내용
+    <ul>
+      <li>대표 주편 Sampling 검사를 통한 스카핑여부 판단에서 BigData를 활용한 품질예측 모델 활용으로 결함재만 스카핑하여 낭비 저감 및 WP 제품 증대 기여</li>
+      <li>RandomForest, 로지스틱 회귀, Deicision Tree 총 40종 모델링 제작 및 결과 Interface 제공</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="동화-smart-factory-품질물성불량-원인-분석-template-구축">동화 Smart Factory 품질(물성)불량 원인 분석 Template 구축</h4>
+<ul>
+  <li>기간 : 18.01 ~ 18.08</li>
+  <li>주요 역할 : 개발, BigData 모델링, 테스트</li>
+  <li>내용
+    <ul>
+      <li>품질 원인 분석 최적화를 위한 분석모델 활용 모습 정의</li>
+      <li>Smart Factory 기반 분석모델 개발 - MES 연계 모델 실행 프로세스 수립</li>
+      <li>층별화 기준별 Decision Tree 구현 기반 품질에 영향을 미치는 최적 물성값 제공</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="퇴근시간-버스-승하차인원-예측-분석">퇴근시간 버스 승하차인원 예측 분석</h4>
+<ul>
+  <li>기간 : 18.01 ~ 18.08</li>
+  <li>주요 역할 : 분석 프로세스 설계, Big Data 모델링, 테스트</li>
+  <li>내용
+    <ul>
+      <li>제주도 버스의 효율적인 운행을 위해 퇴근시간 승하차 인원 예측 모형 개발</li>
+      <li>제주도 버스 승하차 인원 데이터를 기반으로 XGBoost, LightGBM, RandomForest 앙상블 모형을 통한 승하차 인원 예측 모형 개발 수행</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="빅데이터를-활용한-중고폰-적정-가격-서비스">빅데이터를 활용한 중고폰 적정 가격 서비스</h4>
+<ul>
+  <li>기간 : 17.08 ~ 17.10</li>
+  <li>주요 역할 : 분석 프로세스 설계, BigData 모델링, 테스트</li>
+  <li>내용
+    <ul>
+      <li>중고품목 유통현황 텍스트 데이터 분석을 통한 중고폰 적정 가격 제시 예측 모형 개발</li>
+      <li>판매 글 텍스트 마이닝을 통한 분류 알고리즘 적용하여 중고폰 흠결등급 선정</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="기타-수상경력-자격증-등-직무-역량-관련-추가사항">기타 (수상경력, 자격증 등 직무 역량 관련 추가사항)</h3>
+
+<ul>
+  <li>경기 빅데이터 분석 전문가 과정 400H 수료(2017.07~2017.09)
+    <ul>
+      <li>경기 콘텐츠 진흥원 주관 빅데이터 전문가과정 수료.</li>
+      <li>통계 / 머신 러닝 이론 학습 및 R, Python, SQL 기술과정 실습</li>
+    </ul>
+  </li>
+  <li>KOSTA Java 오픈소스 프로그래밍 &amp; 안드로이드 개발 과정 960H 교육 수료
+    <ul>
+      <li>한국소프트웨어기술진흥협회 주관 Java 개발과정 수료</li>
+      <li>Java, DataBase, Jsp, JavaScript등 웹 개발 중심 교육 및 프로젝트 2회 수행</li>
+    </ul>
+  </li>
+  <li>KOSTA Java 오픈소스 프로그래밍 &amp; 안드로이드 개발 과정 프로젝트 경연 수상
+    <ul>
+      <li>위 과정의 연장으로, 프로젝트 경연 주최</li>
+      <li>경연에서 프로젝트 최우수상 수상</li>
+    </ul>
+  </li>
+  <li>경기도 빅데이터 분석 전문가과정 프로젝트 경연 수상
+    <ul>
+      <li>위 과정의 연장으로, 프로젝트 경연 주최</li>
+      <li>경연에서 본선 진출 및 우수 프로젝트 상 수상</li>
+    </ul>
+  </li>
+  <li>ADSP 자격증 취득
+    <ul>
+      <li>취득일 : 2017-10-02</li>
+    </ul>
+  </li>
+</ul>
+:ET
