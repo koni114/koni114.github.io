@@ -44,7 +44,7 @@ nav:
     #- { Tags: '/blog/tags/' }
     - { R: '/blog/R/' }               
     - { Python: '/blog/Python/' }
-    - { Analysis process: '/blog/process/' }
+    - { Statistics & Analysis: '/blog/Process/' }
     - { Algorithm: '/blog/Algorithm/' }        
     - { Data engineering: '/blog/Engineering/' }   
     - { Tip: '/blog/Tip/'} 
