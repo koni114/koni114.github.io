@@ -5,7 +5,7 @@ title: About
 
 <div style="font-size: 0.9rem; font-weight:300; line-height: 1.6rem;">
 안녕하세요! 허재훈이라고 합니다.  <br> 
-궁금하신 사항이 있으시면 언제든지 컨텍 주세요 <br>
+궁금하신 사항이 있으시면 언제든지 컨텍 주세요 :)<br>
 </div>
 
 <div style="font-size: 0.9rem; font-weight:300; line-height: 1.6rem;">
@@ -21,14 +21,15 @@ title: About
 <br>
 <b>경력사항</b> <br>
 <div style="font-size: 0.8rem; font-weight:300; line-height: 1.6rem;">
+<!-- <div style="font-size: 0.8rem; font-weight:300; line-height: 1.6rem;">
 회사명 : POSCO ICT<br>
 </div>
 <div style="font-size: 0.8rem; font-weight:300; line-height: 1.6rem;">
-&nbsp;&nbsp;기간 : 2017-12-18 ~ 현재<br>
+&nbsp;&nbsp;기간 : 2017-12-18 ~ 현재<br> -->
 주요 직무<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Big Data/AI Analysis Tool 분석 모듈 개발<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Big Data Analysis & engineering (정형, 비정형)<br>
-<br>
+<!-- <br>
 <div style="font-size: 0.9rem; font-weight:300; line-height: 1.6rem;">
 <b>주요 프로젝트 정리</b><br>
 </div>
@@ -36,7 +37,7 @@ title: About
 &nbsp;&nbsp;&nbsp;&nbsp;- 품질불량 영향인자 자동원인분석 시스템 구축 : '19.03 ~'20.03 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Smart Factory 품질(물성)불량 원인 분석 Template 구축 : '18.01 ~ '18.08 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;- dacon 퇴근시간 버스 승하차인원 예측 분석 : '18.01 ~ '18.08 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;- 빅데이터를 활용한 중고폰 적정 가격 서비스 : '17.08 ~ '17.10 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;- 빅데이터를 활용한 중고폰 적정 가격 서비스 : '17.08 ~ '17.10 <br> -->
 
 <br>
 <div style="font-size: 0.9rem; font-weight:300; line-height: 1.6rem;">

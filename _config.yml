@@ -1,7 +1,7 @@
 # site info
 title:                재빅의 블로그
 tagline:             'for data science & data engineering'
-description:         '나의 모든 사람들의 행복을 위하여 끊임없이 노력하기!'
+description:         '어제보다 나은 오늘, 오늘보다 나은 내일'
 url:                 https://koni114.github.io
 logo:                'public/logo.png' 
 encoding:            utf-8
@@ -24,7 +24,7 @@ version: 1.0.0
 # About/contact
 author:
   name:              JaeHun Huh
-  description:       '나의 모든 사람들의 행복을 위하여 끊임없이 노력하기!' # main 글귀
+  description:       '어제보다 나은 오늘, 오늘보다 나은 내일' # main 글귀
   gravatar:          bcf284601785bd2fa85f7001f84a6b34 # md5 hash of your email address
   contact: 
     #linkedin:  <hide>
@@ -62,3 +62,4 @@ hero:
 # plugin
 mathjax: true # whether support mathjax
 google_analytics_id: #UA-XXXX-Y
+disqus_short_name: 'koni114-github-io' # leave blank if you don't want disqus
